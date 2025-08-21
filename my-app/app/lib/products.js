@@ -10,7 +10,7 @@ export const products = [
   { id: 9, name: "Mouse", price: 80, description: "Wireless ergonomic mouse", image: "/mouse.png" },
   { id: 10, name: "Monitor", price: 400, description: "4K Ultra HD monitor", image: "/monitor.png" },
   { id: 11, name: "Printer", price: 250, description: "High speed wireless printer", image: "/printer.png" },
-  { id: 12, name: "Speaker", price: 180, description: "Bluetooth portable speaker", image: "/speaker.png" },
+  { id: 12, name: "Speaker", price: 170, description: "Bluetooth portable speaker", image: "/speaker.png" },
   { id: 13, name: "Power Bank", price: 60, description: "Fast charging power bank", image: "/powerbank.png" },
   { id: 14, name: "Router", price: 130, description: "High performance WiFi router", image: "/router.png" },
   { id: 15, name: "Smart TV", price: 1500, description: "4K Smart OLED TV", image: "/tv.png" }
